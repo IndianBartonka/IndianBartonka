@@ -1,2 +1,1 @@
-Minecraft Bedrock Nukkit Plugins beginer
-Minecraft Java Bukkit plugins beginer 
+Beginner in writing plugins for Nukkit and Bukkit
