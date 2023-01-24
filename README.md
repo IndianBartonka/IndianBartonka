@@ -1,7 +1,7 @@
 # Indian Bartonka
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCWB4EYTRnkjZy6FEH47v_Sg?style=social)](https://youtube.com/@IndianBartonka)
-![GitHub followers](https://img.shields.io/github/followers/IndianBartonka?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/IndianBartonka?style=social)](https://github.com/IndianBartonka?tab=followers)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Indian_PL?style=social)](https://www.reddit.com/user/Indian_PL/)
 </br>
 
