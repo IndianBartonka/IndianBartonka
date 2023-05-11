@@ -7,6 +7,10 @@
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Indian_PL?style=social)](https://www.reddit.com/user/Indian_PL/)
 </br>
 
+[![PayPal](https://github.com/intergrav/devins-badges/blob/v2/assets/compact/donate/paypal-singular_vector.svg)](https://paypal.me/IndianPL)
+
+
+
 Beginner in writing plugins for Nukkit and Bukkit (mostly nukkit)
 </br> 
 
