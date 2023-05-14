@@ -1,6 +1,10 @@
 {
   "Bartek":{
-    "age":20,
+    "price":20,
     "description":"Dupa"
+  }
+"Test":{
+"price":20,
+"description":"Dupa 2"
   }
 }
