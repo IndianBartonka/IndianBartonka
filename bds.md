@@ -27,3 +27,21 @@
 - Jeśli chcesz uruchomić serwer Minecraft Bedrock na VPS-ie, wydaje się, że VPS 1 jest lepszym wyborem ze względu na większą ilość rdzeni CPU, więcej pamięci RAM i większy dysk SSD. Niemniej jednak, VPS 2 może być wystarczający, jeśli planujesz mniejszy serwer i masz ograniczony budżet.
 
 - Ostateczny wybór zależy od twoich potrzeb i budżetu.
+
+
+
+Ceny <br>
+
+| Zniżka | 39.90 PLN | 37.90 PLN |
+| ------ | --------- | ---------- |
+| 5%     | 37.90 PLN | 36.00 PLN |
+| 10%    | 35.91 PLN | 34.11 PLN |
+| 20%    | 31.92 PLN | 30.32 PLN |
+| 25%    | 29.93 PLN | 28.42 PLN |
+| 30%    | 27.94 PLN | 26.53 PLN |
+| 40%    | 23.94 PLN | 22.74 PLN |
+| 45%    | 21.94 PLN | 20.84 PLN |
+| 60%    | 15.96 PLN | 15.16 PLN |
+| 70%    | 11.97 PLN | 11.13 PLN |
+| 80%    | 7.98 PLN  | 7.58 PLN  |
+
