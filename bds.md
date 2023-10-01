@@ -22,7 +22,7 @@
 | Typ IP               | Współdzielone (100 portów) | Prywatne                   |
 | Cena                 | 39.90 PLN                 | 37.90 PLN                  |
 
-### Podsumowanie i Sugestia
+# Podsumowanie i Sugestia
 
 ## GTP
 
