@@ -1,18 +1,18 @@
-**VPS 1:**
+### VPS 1
 - CPU: Intel Xeon E5-2690v4 (4 rdzenie)
 - RAM: 8 GB (DDR 2400 MHz)
 - DYSK: 60 GB SSD
 - IP: Współdzielone (100 portów)
 - Cena: 39.90 PLN
 
-**VPS 2:**
+### VPS 2
 - CPU: Intel Core i9-10920X (2 rdzenie)
 - RAM: 4 GB (DDR4 3200 MHz)
 - DYSK: 30 GB SSD NVMe
 - IP: Prywatne
 - Cena: 37.90 PLN
 
-**Porównanie:**
+### Porównanie
 
 | Cecha                | VPS 1                     | VPS 2                      |
 |----------------------|---------------------------|----------------------------|
@@ -22,15 +22,23 @@
 | Typ IP               | Współdzielone (100 portów) | Prywatne                   |
 | Cena                 | 39.90 PLN                 | 37.90 PLN                  |
 
-**Podsumowanie i Sugestia:**
+### Podsumowanie i Sugestia
+
+## GTP
 
 - Jeśli chcesz uruchomić serwer Minecraft Bedrock na VPS-ie, wydaje się, że VPS 1 jest lepszym wyborem ze względu na większą ilość rdzeni CPU, więcej pamięci RAM i większy dysk SSD. Niemniej jednak, VPS 2 może być wystarczający, jeśli planujesz mniejszy serwer i masz ograniczony budżet.
 
 - Ostateczny wybór zależy od twoich potrzeb i budżetu.
 
+## Indian
+
+- VPS może okazać się lepszy bo ma szybszy procesor, co przy MCBE jest dosyć przydatne, lecz ram też tu ma znaczenia, nie tak duże jak przy MCJE ale ma
+
+- Budżet nie ma znaczenia bo zawsze robię servery gdy Host2Play daje zniżkę przynajmniej **20%**
 
 
-Ceny <br>
+
+### Ceny z zniżkami
 
 | Zniżka | 39.90 PLN | 37.90 PLN |
 | ------ | --------- | ---------- |
@@ -44,4 +52,3 @@ Ceny <br>
 | 60%    | 15.96 PLN | 15.16 PLN |
 | 70%    | 11.97 PLN | 11.13 PLN |
 | 80%    | 7.98 PLN  | 7.58 PLN  |
-
