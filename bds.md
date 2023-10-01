@@ -17,7 +17,7 @@
 | Cecha                | VPS 1                     | VPS 2                      |
 |----------------------|---------------------------|----------------------------|
 | CPU                  | Intel Xeon E5-2690v4 (4 rdzenie) | Intel Core i9-10920X (2 rdzenie) |
-| RAM                  | 8 GB (DDR 2400 MHz)       | 4 GB (DDR4 3200 MHz)       |
+| RAM                  | 8 GB (DDR4 2400 MHz)       | 4 GB (DDR4 3200 MHz)       |
 | Typ Dysku            | 60 GB SSD                 | 30 GB SSD NVMe             |
 | Typ IP               | Współdzielone (100 portów) | Prywatne                   |
 | Cena                 | 39.90 PLN                 | 37.90 PLN                  |
