@@ -1,6 +1,6 @@
 ### VPS 1
 - CPU: Intel Xeon E5-2690v4 (4 rdzenie)
-- RAM: 8 GB (DDR 2400 MHz)
+- RAM: 8 GB (DDR4 2400 MHz)
 - DYSK: 60 GB SSD
 - IP: Współdzielone (100 portów)
 - Cena: 39.90 PLN
