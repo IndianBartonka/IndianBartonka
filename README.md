@@ -8,13 +8,8 @@
 </br>
 [![PayPal](https://github.com/intergrav/devins-badges/blob/v2/assets/compact/donate/paypal-singular_vector.svg)](https://paypal.me/IndianPL)
 
-Beginner in writing plugins for Nukkit and Bukkit (mostly nukkit)
-</br> 
-
-
-
+Poland Java Beginer</br> 
 ![Discord](https://discord.c99.nl/widget/theme-4/608063215854682133.png) </br>
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indianbartonka&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</br>
