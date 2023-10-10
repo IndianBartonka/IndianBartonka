@@ -1,3 +1,7 @@
+
+### Porównanie pomiędzy VPS a ofertami serverow Minecraft na Host2Play.pl
+------
+
 | Cecha                | VPS Nat Medium               | VPS Micro                     | Oferta Zombie                | Oferta Wolf                 |
 |----------------------|------------------------------|-------------------------------|------------------------------|-----------------------------|
 | CPU                  | Intel Xeon E5-2690v4 (4 rdzenie) | Intel Core i9-10920X (2 rdzenie) | Intel Core i9-10920X (3 rdzenie) | Intel Core i9-10920X (2,5 rdzenie) |
