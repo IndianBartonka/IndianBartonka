@@ -12,6 +12,8 @@ Poland Java Beginer</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indianbartonka&show_icons=true&theme=radical)</br>
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indianbartonka&theme=radical)
 
+**Moja Strona**: https://indianbartonka.pl
+
 [![Huje22](https://discordapp.com/api/guilds/863164502031597568/widget.png?style=banner2)](https://discord.com/invite/56h83WPKdK) [![Open plugins](https://discordapp.com/api/guilds/1071413512414449666/widget.png?style=banner2)](https://discord.com/invite/aXDs6qtDCV) </br>
 
 
