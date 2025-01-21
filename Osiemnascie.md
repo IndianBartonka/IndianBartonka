@@ -11,18 +11,18 @@ Znajduje się tu `26` osób (Nie wliczając mnie i rodziny)
 | Bartosz Ruciński                           | Tak        |
 | Kacper Adamski                             | Tak        |
 | Patryk Adamski                             | Tak        |
+| Adam Malczewski                            | Tak        |
+| Piotr Krysiak                              | Tak        |
+| Brajan Grabowski                           | Tak        |
+| Jakub Jabłoński  && Klaudia Kozos          | Tak        |
 | Daniel Cichocki                            | Raczej Tak |
 | Jakub Kornatowski && Oliwia Młynarczyk     | Nie wiem   |
 | Sebastian Kornatowski                      | Nie wiem   |
-| Brajan Grabowski                           | Nie wiem   |
-| Agata Kozarzewska                          | Nie wiem   |
 | Mateusz Jeznach                            | Nie wiem   |
-| Piotr Krysiak                              | Nie wiem   |
-| Jakub Jabłoński  && Klaudia Kozos          | Nie wiem   |
-| Adam Malczewski                            | Nie wiem   |
 | Konrad Kaźmierczak                         | Nie wiem   |
 | Daniel Antoszewski                         | Nie wiem   |
-| Dominik Sielczak                           | Nie wiem   |
-| Daniel Rybak                               | Nie wiem   |
 | Wiktoria Tokarska                          | Nie wiem   |
+| Daniel Rybak                               | Nie wiem   |
+| Agata Kozarzewska                          | Nie wiem   |
+| Dominik Sielczak                           | Nie wiem   |
 
