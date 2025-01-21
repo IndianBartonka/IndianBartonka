@@ -19,7 +19,7 @@ Znajduje się tu `26` osób (Nie wliczając mnie i rodziny)
 | Jakub Kornatowski && Oliwia Młynarczyk     | Nie wiem   |
 | Sebastian Kornatowski                      | Nie wiem   |
 | Mateusz Jeznach                            | Nie wiem   |
-| Konrad Kaźmierczak                         | Nie wiem   |
+| Konrad Kaźmierczak                         | Tak   |
 | Daniel Antoszewski                         | Nie wiem   |
 | Wiktoria Tokarska                          | Nie wiem   |
 | Daniel Rybak                               | Nie wiem   |
