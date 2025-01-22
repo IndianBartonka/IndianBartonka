@@ -16,12 +16,12 @@ Znajduje się tu `26` osób (Nie wliczając mnie i rodziny)
 | Brajan Grabowski                           | Tak        |
 | Jakub Jabłoński  && Klaudia Kozos          | Tak        |
 | Daniel Cichocki                            | Raczej Tak |
-| Jakub Kornatowski && Oliwia Młynarczyk     | Nie wiem   |
-| Sebastian Kornatowski                      | Nie wiem   |
+| Jakub Kornatowski && Oliwia Młynarczyk     | Tak   |
+| Sebastian Kornatowski                      | Tak  |
 | Mateusz Jeznach                            | Tak   |
 | Konrad Kaźmierczak                         | Tak   |
 | Daniel Antoszewski                         | Tak  |
-| Wiktoria Tokarska                          | Nie wiem   |
+| Wiktoria Tokarska     && Alan                     | Nie wiem   |
 | Daniel Rybak                               | Nie wiem   |
 | Agata Kozarzewska                          | Nie wiem   |
 | Dominik Sielczak                           | Nie wiem   |
