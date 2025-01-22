@@ -2,8 +2,10 @@
 
 Znajduje się tu `27` osób (Nie wliczając mnie i rodziny)
 
-# Lokalizacja Imprezy:
-https://maps.app.goo.gl/rmo1MEx9qECmQnAu5
+# Dodatkowe informacje 
+Godzina rozpoczęcia: 20:00
+
+Lokalizacja Imprezy: https://maps.app.goo.gl/rmo1MEx9qECmQnAu5 
 
 # Znajomi
 | Osoba                                      | Będzie?    |
@@ -26,7 +28,7 @@ https://maps.app.goo.gl/rmo1MEx9qECmQnAu5
 | Konrad Kaźmierczak                         | Tak   |
 | Daniel Antoszewski                         | Tak  |
 | Wiktoria Tokarska     && Alan                     | Nie wiem   |
-| Daniel Rybak                               | Nie wiem   |
+| Daniel Rybak                               | Prawdopodobnie , zależy od transportu |
 | Agata Kozarzewska                          | Nie wiem   |
 | Dominik Sielczak                           | Nie wiem   |
 
