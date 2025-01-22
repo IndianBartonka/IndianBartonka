@@ -27,8 +27,8 @@ Lokalizacja Imprezy: https://maps.app.goo.gl/rmo1MEx9qECmQnAu5
 | Mateusz Jeznach                            | Tak   |
 | Konrad Kaźmierczak                         | Tak   |
 | Daniel Antoszewski                         | Tak  |
-| Wiktoria Tokarska     && Alan                     | Nie wiem   |
+| Wiktoria Tokarska     && Alan                     | Zależy od transportu   |
 | Daniel Rybak                               | Prawdopodobnie , zależy od transportu |
-| Agata Kozarzewska                          | Nie wiem   |
-| Dominik Sielczak                           | Nie wiem   |
+| Agata Kozarzewska                          | Taak   |
+| Dominik Sielczak                           | Nie   |
 
