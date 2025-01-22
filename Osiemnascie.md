@@ -1,7 +1,11 @@
 ### Osoby zaproszone na 18-nastke
 
-Znajduje się tu `26` osób (Nie wliczając mnie i rodziny)
+Znajduje się tu `27` osób (Nie wliczając mnie i rodziny)
 
+# Lokalizacja Imprezy:
+https://maps.app.goo.gl/rmo1MEx9qECmQnAu5
+
+# Znajomi
 | Osoba                                      | Będzie?    |
 |--------------------------------------------|------------|
 | Aleksandra Staszewska && Seweryn Szymański | TAK        |
