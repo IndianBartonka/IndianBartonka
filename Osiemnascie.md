@@ -18,9 +18,9 @@ Znajduje się tu `26` osób (Nie wliczając mnie i rodziny)
 | Daniel Cichocki                            | Raczej Tak |
 | Jakub Kornatowski && Oliwia Młynarczyk     | Nie wiem   |
 | Sebastian Kornatowski                      | Nie wiem   |
-| Mateusz Jeznach                            | Nie wiem   |
+| Mateusz Jeznach                            | Tak   |
 | Konrad Kaźmierczak                         | Tak   |
-| Daniel Antoszewski                         | Nie wiem   |
+| Daniel Antoszewski                         | Tak  |
 | Wiktoria Tokarska                          | Nie wiem   |
 | Daniel Rybak                               | Nie wiem   |
 | Agata Kozarzewska                          | Nie wiem   |
