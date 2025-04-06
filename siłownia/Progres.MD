@@ -32,5 +32,9 @@
 # Nogi
 | Mięsień              | Seria (7-10 powtórzeń)              | Max    | Update Serii | Update Maxa |
 |----------------------|-------------------------------------|--------|--------------|--------------|
-| Przysiady Sztanga    | XX                                 | XX     | XX           | XX           |
+| Przysiady Sztanga    | 41                                 | XX     | 6 Kwietnia           | XX           |
 | XX                   | XX                                 | XX     | XX           | XX           |
+
+Kucanie Hantlem | 9 |
+Kucanie Hantlem z wznosu | 9
+łydki rozciąganie| 46 |
