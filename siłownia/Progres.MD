@@ -18,6 +18,7 @@
 | Skrzydło             | 15-20                              | XX     | 5 Kwietnia   | 5 Kwietnia   |
 | Francuskie           | 25-30                            | XX     | 5 Kwietnia   | 5 Kwietnia   |
 | Hantel za głowę      | XX                                 | XX     | 5 Kwietnia   | 5 Kwietnia   |
+| Plecy Podciągnięcia Australijskie  | 15 powtórzeń                                 | XX     | XX           | XX           |
 | Plecy Podciągnięcia  | XX                                 | XX     | XX           | XX           |
 
 # Barki & Przedramię
