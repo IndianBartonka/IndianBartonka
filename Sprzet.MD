@@ -29,7 +29,7 @@
 - **Zasilacz:** SilentiumPC 550 W  
 - **Chłodzenie:**
   - Boxowe AMD  
-  - Wentylatory Dark Flash  
+  - Wentylatory Dark Flash  (Prawdopodobnie DR08 ARGB)
 - **Monitory:**
   - Brak (używam TV narazie xDD)  
   - Planuję zakup dwóch  
