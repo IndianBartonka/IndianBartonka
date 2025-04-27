@@ -4,7 +4,6 @@
 - **Xiaomi Redmi Note 13 Pro** — 8 GB RAM / 256 GB pamięci  
 - **Xiaomi Redmi Note 10 Pro** — 6 GB RAM / 128 GB pamięci
 
----
 
 ## Dodatkowy sprzęt 
 ### Raspberry Pi 5 (8 GB RAM)
@@ -18,7 +17,6 @@
 - [M.2 Hat+](https://botland.com.pl/raspberry-pi-hat-nakladki-pci-express/24601-raspberry-pi-m2-hat-nakladka-do-dyskow-nvme-i-akcesoriow-m2-do-raspberry-pi-5-5056561803463.html)  
 - [Oficjalny przewód microHDMI–HDMI](https://botland.com.pl/przewody-wideo-i-audio-do-raspberry-pi-4b/14662-przewod-microhdmi-hdmi-t7689ax-oryginalny-do-raspberry-pi-45-1m-bialy-5056561800684.html)
 
----
 
 ## Komputer główny
 - **Procesor:** AMD Ryzen 5 Pro 3600  
@@ -29,8 +27,21 @@
 - **Zasilacz:** SilentiumPC 550 W  
 - **Chłodzenie:**
   - Boxowe AMD  
-  - Wentylatory Dark Flash  (Prawdopodobnie DR08 ARGB)
+  - Wentylatory Dark Flash (Prawdopodobnie DR08 ARGB)
+- **System operacyjny:** Windows 11
+
+## Sprzęt ogólny 
+<sup>Sprzęty których używam do komputera, Raspberry pi, telefonu i nie tylko</sup>
+
+- **Słuchawki:** JBL 570
+- **Mikrofon**: BRAK
 - **Monitory:**
   - Brak (używam TV narazie xDD)  
-  - Planuję zakup dwóch  
-- **System operacyjny:** Windows 11
+  - Planuję zakup dwóch
+- **Gamepady:** 
+    - Varr OGPOTG Gamepad Sandpiper (Kupowany kiedyś w 2018 na allegro xD)
+    - Gen Game (nie polecam ani trochę do komputera, też na allegro kiedyś w 2018 kupowany)
+    - [MAD DOG GC550C](https://www.mediaexpert.pl/gaming/kontrolery-pady/kontroler-mad-dog-gc550c)
+    - [COBRA QSP505TR Transparent](https://www.mediaexpert.pl/gaming/kontrolery-pady/kontroler-cobra-qsp505tr-transparent)
+
+
