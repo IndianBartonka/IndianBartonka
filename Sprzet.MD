@@ -5,7 +5,35 @@
 - **Xiaomi Redmi Note 13 Pro** — 8 GB RAM / 256 GB pamięci
 - **Xiaomi Redmi Note 10 Pro** — 6 GB RAM / 128 GB pamięci
 
+
+## Komputer
+
+- **Procesor:** AMD Ryzen 5 Pro 3600
+- **Płyta główna:** Gigabyte A320M-S2H-CF
+- **Karta graficzna:** Gigabyte GTX 1660 Super 6 GB
+- **Karta sieciowa:** TP-LINK Archer TX55E
+- **RAM:** PATRIOT Viper Steel 2x16GB 3200MHz
+ <br> ~~- **RAM:** G.Skill Ripjaws V DDR4 2×8 GB 3200 MHz~~ (Narazie nie używane)
+- **Dysk SSD NVMe:** Adata Legend710 512 GB
+- **Dysk HDD SATA:** Hitachi (Jakis tam numer seryjny) 500GB
+- **Zasilacz:** SilentiumPC 550 W
+- **Chłodzenie:**
+    - Boxowe AMD
+    - Wentylatory Dark Flash (Prawdopodobnie DR08 ARGB)
+- **System operacyjny:** Windows 11
+
 ## Dodatkowy sprzęt
+
+- **Słuchawki:** JBL 570
+- **Mikrofon**: BRAK
+- **Klawiatura:** SVEN KB-G8000
+- **Monitory:**
+    - ACER SA243YG0
+- **Gamepady:**
+    - Varr OGPOTG Gamepad Sandpiper (Kupowany kiedyś w 2018 na allegro xD)
+    - Gen Game (nie polecam ani trochę do komputera, też na allegro kiedyś w 2018 kupowany)
+    - [MAD DOG GC550C](https://www.mediaexpert.pl/gaming/kontrolery-pady/kontroler-mad-dog-gc550c)
+    - [COBRA QSP505TR Transparent](https://www.mediaexpert.pl/gaming/kontrolery-pady/kontroler-cobra-qsp505tr-transparent)
 
 ### Raspberry Pi 5 (8 GB RAM)
 
@@ -19,36 +47,3 @@
 
 - [M.2 Hat+](https://botland.com.pl/raspberry-pi-hat-nakladki-pci-express/24601-raspberry-pi-m2-hat-nakladka-do-dyskow-nvme-i-akcesoriow-m2-do-raspberry-pi-5-5056561803463.html)
 - [Oficjalny przewód microHDMI–HDMI](https://botland.com.pl/przewody-wideo-i-audio-do-raspberry-pi-4b/14662-przewod-microhdmi-hdmi-t7689ax-oryginalny-do-raspberry-pi-45-1m-bialy-5056561800684.html)
-
-## Komputer główny
-
-- **Procesor:** AMD Ryzen 5 Pro 3600
-- **Płyta główna:** Gigabyte A320M-S2H-CF
-- **Karta graficzna:** Gigabyte GTX 1660 Super 6 GB
-- **Karta sieciowa:** TP-LINK Archer TX55E
-- **RAM:** PATRIOT Viper Steel 2x16GB 3200MHz
- <br> ~~- **RAM:** G.Skill Ripjaws V DDR4 2×8 GB 3200 MHz~~
-- **Dysk SSD NVMe:** Adata Legend710 512 GB
-- **Dysk HDD SATA:** Hitachi (Jakis tam numer seryjny) 500GB
-- **Zasilacz:** SilentiumPC 550 W
-- **Chłodzenie:**
-    - Boxowe AMD
-    - Wentylatory Dark Flash (Prawdopodobnie DR08 ARGB)
-- **System operacyjny:** Windows 11
-
-## Sprzęt ogólny
-
-<sup>Sprzęty których używam do komputera, Raspberry pi, telefonu i nie tylko</sup>
-
-- **Słuchawki:** JBL 570
-- **Mikrofon**: BRAK
-- **Klawiatura:** SVEN KB-G8000
-- **Monitory:**
-    - ACER SA243YG0
-- **Gamepady:**
-    - Varr OGPOTG Gamepad Sandpiper (Kupowany kiedyś w 2018 na allegro xD)
-    - Gen Game (nie polecam ani trochę do komputera, też na allegro kiedyś w 2018 kupowany)
-    - [MAD DOG GC550C](https://www.mediaexpert.pl/gaming/kontrolery-pady/kontroler-mad-dog-gc550c)
-    - [COBRA QSP505TR Transparent](https://www.mediaexpert.pl/gaming/kontrolery-pady/kontroler-cobra-qsp505tr-transparent)
-
-
