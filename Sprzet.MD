@@ -28,6 +28,7 @@
 - **Mikrofon**: BRAK
 - **Głośniki:** Jakieś od "Setty" kupione kiedyś w biedronce xD
 - **Klawiatura:** SVEN KB-G8000
+- **Mysz:** Genesis Krypton 110
 - **Monitory:**
     - ACER SA243YG0 (23.8" 1920x1080px IPS 120Hz 1 ms [VRB])
 - **Gamepady:**
