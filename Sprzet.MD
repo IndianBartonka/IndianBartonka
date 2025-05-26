@@ -16,7 +16,7 @@
  <br> ~~- **RAM:** G.Skill Ripjaws V DDR4 2×8 GB 3200 MHz~~ (Narazie nie używane)
 - **Dysk SSD NVMe:** Adata Legend710 512 GB
 - **Dysk HDD SATA:** Hitachi HTS547550A9E384 500GB
-- **Zasilacz:** SilentiumPC 550 W
+- **Zasilacz:** SilentiumPC Elementum E2 550W 80 Plus
 - **Chłodzenie:**
     - Boxowe AMD
     - Wentylatory Dark Flash (Prawdopodobnie DR08 ARGB)
