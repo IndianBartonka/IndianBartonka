@@ -13,7 +13,6 @@
 - **Karta graficzna:** Gigabyte GTX 1660 Super 6 GB
 - **Karta sieciowa:** TP-LINK Archer TX55E
 - **RAM:** PATRIOT Viper Steel 2x16GB 3200MHz
- <br> ~~- **RAM:** G.Skill Ripjaws V DDR4 2×8 GB 3200 MHz~~ (Narazie nie używane)
 - **Dysk SSD NVMe:** Adata Legend710 512 GB
 - **Dysk HDD SATA:** Hitachi HTS547550A9E384 500GB
 - **Zasilacz:** SilentiumPC Elementum E2 550W 80 Plus
