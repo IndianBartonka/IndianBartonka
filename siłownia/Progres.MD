@@ -1,6 +1,8 @@
 > [!WARNING]  
 > Dopiero Uzupełniam Dane!
 
+Kiedys Uzupelnie XDD
+
 # Klata & Biceps
 
 | Mięsień            | Seria (7-10 powtórzeń)         | Max |
