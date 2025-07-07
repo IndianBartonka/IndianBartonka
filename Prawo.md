@@ -1,3 +1,12 @@
+# Źródła
+
+https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/kodeks-karny-16798683/art-193 <br>
+
+https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/kodeks-karny-16798683/art-160 <br>
+
+https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/kodeks-wykroczen-16788218/art-51 <br>
+
+
 # Art. 193. [Zakłócanie miru domowego]
 § 1. Kto wdziera się do cudzego domu, mieszkania, lokalu, pomieszczenia albo ogrodzonego terenu albo wbrew żądaniu osoby uprawnionej miejsca takiego nie opuszcza,  
 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.  
