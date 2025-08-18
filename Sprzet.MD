@@ -15,7 +15,7 @@
 - **RAM:** PATRIOT Viper Steel 2x16GB 3200MHz
 - **Dysk SSD NVMe:** Adata Legend710 512 GB
 - **Dysk HDD SATA:** Hitachi HTS547550A9E384 500GB
-- **Zasilacz:** SilentiumPC Elementum E2 550W 80 Plus
+- **Zasilacz:** Deepcool PL650D 650W 80 Plus Bronze
 - **Chłodzenie:**
     - Boxowe AMD
     - Wentylatory Dark Flash (Prawdopodobnie DR08 ARGB)
