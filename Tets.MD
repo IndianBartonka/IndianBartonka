@@ -2,7 +2,7 @@
 
 ## Bazowy zestaw (kupiony za 1550 zł)
 
-| Komponent         | Uwagi                                                                                              | Cena      |
+| Komponent         | Nazwa                                                                                              | Cena Upgrade     |
 |-------------------|----------------------------------------------------------------------------------------------------|-----------|
 | Procesor          | AMD Ryzen 5 Pro 3600                                                                               | -         |
 | Płyta główna      | Gigabyte A320M-S2H-CF                                                                              | -         |
