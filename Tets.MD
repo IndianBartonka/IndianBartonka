@@ -26,9 +26,14 @@
 | Karta sieciowa TP-LINK Archer TX55E               | 133,95 zł |
 | Monitor ACER SA243YG0                             | 384,63 zł |
 | Klawiatura SVEN KB-G8000                          | 59,29 zł  |
-| Uchwyt ART UM-116 13-32"                          | 199,00 zł |
-| Biurko Huzaro Hero 6.3 White                      | 339,00 zł |
-| Dostawa                                           | 51,99 zł  |
+| Uchwyt ART UM-116 13-32"            (Dostawa 1)   | 199,00 zł |
+| Biurko Huzaro Hero 6.3 White        (Dostawa 1)   | 339,00 zł |
+
+## Dostawy
+
+| Numer | Cena  |
+|-------|-------|
+| 1     | 51,99 |
 
 **Łączny koszt dodatków:** 3,85 + 133,95 + 384,63 + 59,29 + 199 + 339 + 51,99 = **1 171,71 zł**
 
