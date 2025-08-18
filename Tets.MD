@@ -13,7 +13,7 @@
 | Chłodzenie        | Boxowe AMD + wentylatory Dark Flash DR08 ARGB                                                      | -         |
 | System operacyjny | Windows 11                                                                                         | -         |
 
-**Koszt bazowy:** 1550 zł + 187,98 zł + 199,99 zł = **1937,97 zł**
+**Koszt bazowy:** 1550 + 187,98 + 199,99 = **1 937,97 zł**
 
 ---
 
@@ -26,16 +26,11 @@
 | Karta sieciowa TP-LINK Archer TX55E               | 133,95 zł |
 | Monitor ACER SA243YG0                             | 384,63 zł |
 | Klawiatura SVEN KB-G8000                          | 59,29 zł  |
-| ART UM-116 13-32"                                 | 199,00 zł |
-| Huzaro Hero 6.3 White                             | 399,00 zł |
+| Uchwyt ART UM-116 13-32"                          | 199,00 zł |
+| Biurko Huzaro Hero 6.3 White                      | 339,00 zł |
+| Dostawa                                           | 51,99 zł  |
 
-## Dostawy
-
-| Numer | Cena  |
-|-------|-------|
-| 1     | 51,99 |
-
-**Łączny koszt dodatków:** 3,85 + 133,95 + 384,63 + 59,29 + 199 + 399 + 51,99 = **1231,71 zł**
+**Łączny koszt dodatków:** 3,85 + 133,95 + 384,63 + 59,29 + 199 + 339 + 51,99 = **1 171,71 zł**
 
 ---
 
@@ -52,7 +47,7 @@
 
 ## Podsumowanie
 
-| Wartość                           | Kwota                              |
-|-----------------------------------|------------------------------------|
-| Całkowity koszt zestawu + dodatki | 1937,97 + 1231,71 = **3169,68 zł** |
-| Po uwzględnieniu sprzedaży części | 3169,68 – 100 = **3069,68 zł**     |
+| Wartość                           | Kwota                             |
+|-----------------------------------|-----------------------------------|
+| Całkowity koszt zestawu + dodatki | 1 937,97 + 1 171,71 = **3 109,68 zł** |
+| Po uwzględnieniu sprzedaży części | 3 109,68 – 100 = **3 009,68 zł**  |
