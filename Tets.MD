@@ -27,14 +27,22 @@
 | Karta sieciowa TP-LINK Archer TX55E               | 133,95 zł |
 | Monitor ACER SA243YG0                             | 384,63 zł |
 | Klawiatura SVEN KB-G8000                          | 59,29 zł  |
+| ART UM-116 13-32"                                 | 199,00 zł |
+| Huzaro Hero 6.3 White                             | 399,00 zł |
 
-**Łączny koszt dodatków:** 3,85 + 133,95 + 384,63 + 59,29 = **581,72 zł**
+## Dostawy, za które zapłaciłem  
+
+| Numer | Cena  |
+|-------|-------|
+| 1     | 51,99 |
+
+**Łączny koszt dodatków:** 3,85 + 133,95 + 384,63 + 59,29 + 199 + 399 + 51,99 = **1231,71 zł**
 
 ---
 
 ## Podsumowanie
 
-| Wartość                           | Kwota                             |
-|-----------------------------------|-----------------------------------|
-| Całkowity koszt zestawu + dodatki | 1837,97 + 581,72 = **2419,69 zł** |
-| Po uwzględnieniu sprzedaży RAM    | **2319,69 zł** (~2,32k zł)        |
+| Wartość                           | Kwota                              |
+|-----------------------------------|------------------------------------|
+| Całkowity koszt zestawu + dodatki | 1837,97 + 1231,71 = **3069,68 zł** |
+| Po uwzględnieniu sprzedaży RAM    | **2969,68 zł** (~2,97k zł)         |
