@@ -30,6 +30,10 @@
 - **Mysz:** Genesis Krypton 110
 - **Monitory:**
     - ACER SA243YG0 (23.8" 1920x1080px IPS 120Hz 1 ms [VRB])
+
+- **Uchwyt:** ART UM-116 13-32" 
+- **Biurko:** Huzaro Hero 6.3 White
+
 - **Gamepady:**
     - Varr OGPOTG Gamepad Sandpiper (Kupowany kiedyś w 2018 na allegro xD)
     - Gen Game (nie polecam ani trochę do komputera, też na allegro kiedyś w 2018 kupowany)
