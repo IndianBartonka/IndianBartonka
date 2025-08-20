@@ -29,6 +29,8 @@
 | Uchwyt ART UM-116 13-32"            (Dostawa 1)   | 199,00 zł |
 | Biurko Huzaro Hero 6.3 White        (Dostawa 1)   | 339,00 zł |
 
+DODAJ PODKŁADKĘ TU I W GŁÓWNYM 
+
 ## Dostawy
 
 | Numer | Cena  |
