@@ -28,8 +28,9 @@
 | Klawiatura SVEN KB-G8000                          | 59,29 zł  |
 | Uchwyt ART UM-116 13-32"            (Dostawa 1)   | 199,00 zł |
 | Biurko Huzaro Hero 6.3 White        (Dostawa 1)   | 339,00 zł |
+| COBRA Matrix XL TM9006PI                          | 29,99 zł  |
 
-DODAJ PODKŁADKĘ TU I W GŁÓWNYM 
+DODAJ PODKŁADKĘ TU I W GŁÓWNYM
 
 ## Dostawy
 
@@ -37,7 +38,7 @@ DODAJ PODKŁADKĘ TU I W GŁÓWNYM
 |-------|-------|
 | 1     | 51,99 |
 
-**Łączny koszt dodatków:** 3,85 + 133,95 + 384,63 + 59,29 + 199 + 339 + 51,99 = **1 171,71 zł**
+**Łączny koszt dodatków:** 3,85 + 133,95 + 384,63 + 59,29 + 199 + 339 + 51,99 + 29,99 = **1 201,7 zł**
 
 ---
 
@@ -54,7 +55,7 @@ DODAJ PODKŁADKĘ TU I W GŁÓWNYM
 
 ## Podsumowanie
 
-| Wartość                           | Kwota                                 |
-|-----------------------------------|---------------------------------------|
-| Całkowity koszt zestawu + dodatki | 1 937,97 + 1 171,71 = **3 109,68 zł** |
-| Po uwzględnieniu sprzedaży części | 3 109,68 – 100 = **3 009,68 zł**      |
+| Wartość                           | Kwota                                |
+|-----------------------------------|--------------------------------------|
+| Całkowity koszt zestawu + dodatki | 1 937,97 + 1 201,7 = **3 139,68 zł** |
+| Po uwzględnieniu sprzedaży części | 3 139,68 – 100 = **3 039,68 zł**     |
