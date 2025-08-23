@@ -59,6 +59,7 @@ Osoby, które możliwe, że będą, ale jeszcze nie wiedzą, czy będą mogli
 | Agata Bożym        | ----- |
 | Oliwia Szymańska   | ----- |
 | Daniel Antoszewski | ----- |
+| Amelia Kosińska    | ----- |
 |                    | ----- |
 |                    | ----- |
 
