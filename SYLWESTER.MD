@@ -39,6 +39,13 @@ Na <b><u>30 osób</b></u> wyszłoby około 3000zł (wiadomo nie równe, <b><u>w 
 |  Adrian Chajcelman                | ----- |
 |   Julka Urbanowicz              | ----- |
 |     Daniel Antoszewski            | ----- |
+| Kacper Jędrzejczyk | ----- |
+| Buźka              | ----- |
+| Swecio             | ----- |
+| Nikola Osińska     | ----- |
+| Julia Winkowsa     | ----- |
+| Agata Bożym        | ----- |
+| Oliwia Szymańska   | ----- |
 |                  | ----- |
 
 # Chętni
@@ -54,13 +61,6 @@ Osoby, które możliwe, że będą, ale jeszcze nie wiedzą, czy będą mogli
 
 | Osoba              | ---   |
 |--------------------|-------|
-| Kacper Jędrzejczyk | ----- |
-| Buźka              | ----- |
-| Swecio             | ----- |
-| Nikola Osińska     | ----- |
-| Julia Winkowsa     | ----- |
-| Agata Bożym        | ----- |
-| Oliwia Szymańska   | ----- |
 | Amelia Kosińska    | ----- |
 |                    | ----- |
 |                    | ----- |
