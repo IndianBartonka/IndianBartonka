@@ -35,7 +35,10 @@ Na <b><u>30 osób</b></u> wyszłoby około 3000zł (wiadomo nie równe, <b><u>w 
 | Oskar Falaciński | ----- |
 | Miłosz Turkowski | ----- |
 | Julia Czerwińska | ----- |
-|                  | ----- |
+|  Adam Bocianiak               | ----- |
+|  Adrian Chajcelman                | ----- |
+|   Julka Urbanowicz              | ----- |
+|     Daniel Antoszewski            | ----- |
 |                  | ----- |
 
 # Chętni
@@ -58,7 +61,6 @@ Osoby, które możliwe, że będą, ale jeszcze nie wiedzą, czy będą mogli
 | Julia Winkowsa     | ----- |
 | Agata Bożym        | ----- |
 | Oliwia Szymańska   | ----- |
-| Daniel Antoszewski | ----- |
 | Amelia Kosińska    | ----- |
 |                    | ----- |
 |                    | ----- |
