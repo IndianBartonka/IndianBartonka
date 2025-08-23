@@ -16,6 +16,7 @@ Na 30 osób wyszło by około 3000zł (wiadomo nie równe, <b><u>w tym 800zł na
 |-----------------------|-------|
 | Bartosz Łupiński      | ----- |
 | Aleksandra Staszewska | ----- |
+| Oskar Falaciński      | ----- |
 |                       | ----- |
 |                       | ----- |
 
@@ -28,7 +29,6 @@ Na 30 osób wyszło by około 3000zł (wiadomo nie równe, <b><u>w tym 800zł na
 | Swecio             | ----- |
 | Nikola Osińska     | ----- |
 | Julia Winkowsa     | ----- |
-| Oskar Falaciński   | ----- |
 | Miłosz Turkowski   | ----- |
 | Agata Bożym        | ----- |
 | Oliwia Szymańska   | ----- |
