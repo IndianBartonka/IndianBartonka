@@ -10,6 +10,7 @@
 
 - **Procesor:** AMD Ryzen 5 Pro 3600
 - **Płyta główna:** Gigabyte A320M-S2H-CF
+- **Obudowa:** SilentiumPC Armis AR6 TG
 - **Karta graficzna:** Gigabyte GTX 1660 Super 6 GB
 - **Karta sieciowa:** TP-LINK Archer TX55E
 - **RAM:** PATRIOT Viper Steel 2x16GB 3200MHz
