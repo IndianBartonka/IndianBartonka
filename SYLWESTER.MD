@@ -47,6 +47,8 @@ jakoś
 | Julia Winkowsa     | ----- |
 | Agata Bożym        | ----- |
 | Oliwia Szymańska   | ----- |
+| Gabriela Kawecka   | ----- |
+| Damian Cichocki    | ----- |
 |                    | ----- |
 
 # Chętni
