@@ -6,6 +6,7 @@
 |-------------------|------------------------------------------------------------------------------|--------------|
 | Procesor          | AMD Ryzen 5 Pro 3600                                                         | -            |
 | Płyta główna      | Gigabyte A320M-S2H-CF                                                        | -            |
+| Obudowa    | SilentiumPC Armis AR6 TG                                                        | -            |
 | Karta graficzna   | Gigabyte GTX 1660 Super 6 GB                                                 | -            |
 | RAM               | G.Skill Ripjaws V DDR4 2×8 GB 3200 MHz → PATRIOT Viper Steel 2x16GB 3200 MHz | 187,98 zł    |
 | Dysk SSD NVMe     | Adata Legend710 512 GB                                                       | -            |
