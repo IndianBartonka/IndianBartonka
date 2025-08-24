@@ -3,7 +3,8 @@
 # Sylwester w Słominie
 
 W zależności od liczby osób składka będzie inna, aktualnie oczekujemy `30osób`. <br>
-Na <b><u>30 osób</b></u> wyszłoby około 3000zł (wiadomo nie równe, <b><u>w tym 800zł na samą salę</u><b>) więc wyszłoby jakoś
+Na <b><u>30 osób</b></u> wyszłoby około 3000zł (wiadomo nie równe, <b><u>w tym 800zł na samą salę</u><b>) więc wyszłoby
+jakoś
 `100-150zł` za osobę. <br>
 
 
@@ -30,23 +31,23 @@ Na <b><u>30 osób</b></u> wyszłoby około 3000zł (wiadomo nie równe, <b><u>w 
 
 # Osoby, które na pewno będą
 
-| Osoba            | ---   |
-|------------------|-------|
-| Oskar Falaciński | ----- |
-| Miłosz Turkowski | ----- |
-| Julia Czerwińska | ----- |
-|  Adam Bocianiak               | ----- |
-|  Adrian Chajcelman                | ----- |
-|   Julka Urbanowicz              | ----- |
-|     Daniel Antoszewski            | ----- |
+| Osoba              | ---   |
+|--------------------|-------|
+| Oskar Falaciński   | ----- |
+| Miłosz Turkowski   | ----- |
+| Julia Czerwińska   | ----- |
+| Adam Bocianiak     | ----- |
+| Adrian Chajcelman  | ----- |
+| Julka Urbanowicz   | ----- |
+| Daniel Antoszewski | ----- |
 | Kacper Jędrzejczyk | ----- |
 | Buźka              | ----- |
-| Swecio             | ----- |
+| Sewcio             | ----- |
 | Nikola Osińska     | ----- |
 | Julia Winkowsa     | ----- |
 | Agata Bożym        | ----- |
 | Oliwia Szymańska   | ----- |
-|                  | ----- |
+|                    | ----- |
 
 # Chętni
 
@@ -59,11 +60,11 @@ Osoby, które możliwe, że będą, ale jeszcze nie wiedzą, czy będą mogli
 
 # Możliwe, że będą
 
-| Osoba              | ---   |
-|--------------------|-------|
-| Amelia Kosińska    | ----- |
-|                    | ----- |
-|                    | ----- |
+| Osoba           | ---   |
+|-----------------|-------|
+| Amelia Kosińska | ----- |
+|                 | ----- |
+|                 | ----- |
 
 # Moge zaprosić kogoś od siebie?
 
