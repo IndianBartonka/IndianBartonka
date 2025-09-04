@@ -35,7 +35,6 @@
 - **Monitory:**
     - ACER SA243YG0 (23.8" 1920x1080px IPS 120Hz 1 ms [VRB])
     - Zamierzam kupić **Acer Nitro XV272UV3bmiiprx**
-
 - **Gamepady:**
     - Varr OGPOTG Gamepad Sandpiper (Kupowany kiedyś w 2018 na allegro xD)
     - Gen Game (nie polecam ani trochę do komputera, też na allegro kiedyś w 2018 kupowany)
