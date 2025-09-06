@@ -30,6 +30,10 @@
 - **Klawiatura:** SVEN KB-G8000
 - **Mysz:** Genesis Krypton 110
 - **Biurko:** Huzaro Hero 6.3 White
+
+//TODO; Dodaj fotel i resztę rzeczy 
+Silver Monkey Fotel biurowy SMO-750
+
 - **Podkładka:** COBRA Matrix XL TM9006PI
 - **Uchwyt:** ART UM-116 13-32"
 - **Monitory:**
