@@ -25,20 +25,17 @@
 ## Dodatkowy sprzęt
 
 - **Słuchawki:** JBL 570
-- **Mikrofon**: BRAK
+- **Mikrofon**: MAONO DGM20S
 - **Głośniki:** Jakieś od "Setty" kupione kiedyś w biedronce xD
 - **Klawiatura:** SVEN KB-G8000
 - **Mysz:** Genesis Krypton 110
 - **Biurko:** Huzaro Hero 6.3 White
-
-//TODO; Dodaj fotel i resztę rzeczy 
-Silver Monkey Fotel biurowy SMO-750
-
+- **Krzesło:** Silver Monkey SMO-750
 - **Podkładka:** COBRA Matrix XL TM9006PI
 - **Uchwyt:** ART UM-116 13-32"
 - **Monitory:**
+    - ACER Nitro XV272UV3BMIIPRX (27" 2560x1440px IPS 180Hz 0.5 ms [GTG])
     - ACER SA243YG0 (23.8" 1920x1080px IPS 120Hz 1 ms [VRB])
-    - Zamierzam kupić **Acer Nitro XV272UV3bmiiprx**
 - **Gamepady:**
     - Varr OGPOTG Gamepad Sandpiper (Kupowany kiedyś w 2018 na allegro xD)
     - Gen Game (nie polecam ani trochę do komputera, też na allegro kiedyś w 2018 kupowany)
