@@ -61,7 +61,7 @@ Osoby, które możliwe, że będą, ale jeszcze nie wiedzą, czy będą mogli
 | Osoba        | ---    |
 |--------------|--------|
 | Daniel Rybak | *Brak* |
-|              | *Brak* |
+|  Konrad Kazimierczak            | *Brak* |
 
 # Możliwe, że będą
 
