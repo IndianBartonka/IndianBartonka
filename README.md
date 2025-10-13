@@ -13,14 +13,7 @@ Poland Java Beginner</br>
 <div align="left">
 
 ## Znane Popularne Biblioteki
-* **[JDA](https://github.com/discord-jda/JDA)** – biblioteka do tworzenia botów i aplikacji na Discorda w Javie.
-* **[Javalin](https://github.com/javalin/javalin)** – prosty, lekki framework do tworzenia REST API i aplikacji webowych.
-* **[OkHttp](https://github.com/square/okhttp)** – klient HTTP do wysyłania zapytań sieciowych, często używany z REST API.
-* **[Gson](https://github.com/google/gson)** – narzędzie od Google do konwersji obiektów Java na JSON i odwrotnie.
-* **[Okaeri Configs](https://github.com/OkaeriPoland/okaeri-configs)** – wygodna biblioteka do zarządzania konfiguracją (YAML, JSON, inne).
-* **[Spring Web](https://spring.io/)** – część ekosystemu Springa, służąca do budowy aplikacji webowych i REST API.
-    * Mało Używałem
-* I wiele innych
+JDA, Javalin, OkHttp, Gdon, Okaeri Configs, Spring i wiele innych 
 
 ## Minecraft
 
