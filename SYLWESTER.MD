@@ -74,15 +74,17 @@ Jeśli chodzi o cene proszę zajrzeć do punktu [6. W cenie](#-w-cenie) <br>
 
 ### Zaborowo itp
 
-| Osoba                  | Zapłata         |
-|------------------------|-----------------|
-| Brajan Grabowski       | *Nie Zapłacono* |
-| Bartłomiej Kornatowski | *Nie Zapłacono* |
-| Andżelika              | *Nie Zapłacono* |
-| Jakub Kania            | *Nie Zapłacono* |
-| Konrad Kazimierczak    | *Nie Zapłacono* |
-|                        | *Nie Zapłacono* |
-|                        | *Nie Zapłacono* |
+| Osoba                          | Zapłata         |
+|--------------------------------|-----------------|
+| Brajan Grabowski               | *Nie Zapłacono* |
+| Bartłomiej Kornatowski         | *Nie Zapłacono* |
+| Andżelika                      | *Nie Zapłacono* |
+| Jakub Kania                    | *Nie Zapłacono* |
+| Konrad Kazimierczak            | *Nie Zapłacono* |
+| Jakub Jabłoński (90% pewności) | *Nie Zapłacono* |
+|                                | *Nie Zapłacono* |
+|                                | *Nie Zapłacono* |
+|                                | *Nie Zapłacono* |
 
 ### Piździgród
 
