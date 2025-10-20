@@ -13,7 +13,7 @@ Poland Java Beginner</br>
 <div align="left">
 
 ## Znane Popularne Biblioteki
-JDA, Javalin, OkHttp, Gdon, Okaeri Configs, Spring i wiele innych 
+JDA, Javalin, OkHttp, Gson, Okaeri Configs, Spring i wiele innych 
 
 ## Minecraft
 
