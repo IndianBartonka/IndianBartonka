@@ -71,6 +71,7 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 | Oliwia Szymańska    | *Nie Zapłacono* |
 | Julia Winkowska     | *Nie Zapłacono* |
 | Agata Bożym         | *Nie Zapłacono* |
+| Jakub Osmolak       | *Nie Zapłacono* |
 |                     | *Nie Zapłacono* |
 |                     | *Nie Zapłacono* |
 
