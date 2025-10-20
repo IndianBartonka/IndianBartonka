@@ -5,6 +5,8 @@
 W zależności od liczby osób składka będzie inna, aktualnie oczekujemy `30osób`. <br>
 Jeśli chodzi o cene proszę zajrzeć do punktu [6. W cenie](#-w-cenie) <br>
 
+Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
+
 </div>
 
 ---
@@ -138,14 +140,17 @@ Lecz <b><u>im więcej osób tym taniej</b></u>
 
 Zakładamy, że będzie `30 osób`, składka `150 zł`, więc budżet to około `4500 zł`.
 
+<U>**POTEM UWZGLĘDNIMY OSOBY NIE PIJĄCE**</U>
+
 **Remiza:** ok. 800 zł  
 `4500 - 800 = 3700 zł`
 
 **Wóda:** 0,5L × 30 = ok. 1200 zł  
 `3700 - 1200 = 2500 zł`
 
-**Jedzenie:** Pizza (około jedna duża na dwie osoby)  
-`15 × 60 = 900 zł`  
+**Jedzenie:**
+Pizza (około jedna duża na dwie osoby)  
+15 × 60 = 900 zł
 `2500 - 900 = 1600 zł`
 
 **Napoje i przekąski:** ok. 1200 zł  
