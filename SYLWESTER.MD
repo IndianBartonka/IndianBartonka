@@ -34,15 +34,6 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 
 <u>Podzielone na poszczególne grupy osób</u>
 
-### Zadupianie
-
-| Osoba            | Zapłata         |
-|------------------|-----------------|
-| Gabriela Kawecka | *Nie Zapłacono* |
-| Damian Cichocki  | *Nie Zapłacono* |
-|                  | *Nie Zapłacono* |
-|                  | *Nie Zapłacono* |
-
 ### Wołomin
 
 | Osoba                          | Zapłata         |
