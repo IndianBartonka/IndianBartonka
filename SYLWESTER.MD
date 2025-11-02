@@ -93,10 +93,10 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 
 | Osoba                                        | Zapłata         |
 |----------------------------------------------|-----------------|
+| Nikola Osińska                               | *Nie Zapłacono* |
 | Szymon Fotek                                 | *Nie Zapłacono* |
 | Martyna Piotrowska                           | *Nie Zapłacono* |
 | Mała Czarna (chuj wie kto to jakas wiktoria) | *Nie Zapłacono* |
-| Nikola Osińska                               | *Nie Zapłacono* |
 |                                              | *Nie Zapłacono* |
 |                                              | *Nie Zapłacono* |
 
@@ -117,7 +117,6 @@ Osoby, które możliwe, że będą, ale jeszcze nie wiedzą, czy będą mogli
 
 | Osoba           |
 |-----------------|
-| Amelia Kosińska |
 |                 |
 |                 |
 
