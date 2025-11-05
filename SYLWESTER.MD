@@ -57,7 +57,6 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 | Adam Bocianiak      | *Nie Zapłacono* |
 | Daniel Antoszewski  | *Nie Zapłacono* |
 | Kacper Jędrzejczyk  | *Nie Zapłacono* |
-| Jakub Szymański     | *Nie Zapłacono* |
 | Seweryn Szymański   | *Nie Zapłacono* |
 | Oliwia Szymańska    | *Nie Zapłacono* |
 | Julia Winkowska     | *Nie Zapłacono* |
@@ -157,6 +156,7 @@ Pizza (około jedna duża na dwie osoby)
 |------------------------------|---------------------------------------|
 | **Aleksandra Lubelska**      | Zarządzone przez <u>organizatorów</u> |
 | **Oliwia Maria Grzankowska** | Zarządzone przez <u>organizatorów</u> |
+| **Jakub Szymański**          | Zarządzone przez <u>organizatorów</u> |
 | **----**                     | ???                                   |
 | **----**                     | ???                                   |
 | **----**                     | ???                                   |
