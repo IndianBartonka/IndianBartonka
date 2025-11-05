@@ -1,3 +1,6 @@
+//TODO: Dodaj info o Pironman i RX 7800 XT
+
+
 # Mój sprzęt
 
 ## Telefony
