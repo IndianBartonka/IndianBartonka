@@ -1,6 +1,6 @@
 ## Paweł Krucz
 
-Kyle Crane (Dying Light) - https://youtu.be/H144jYPmg9w?si=gMc8wpIWQWnbIIxV&t=24 <br>
+Kyle Crane (Dying Light 1) - https://youtu.be/H144jYPmg9w?si=gMc8wpIWQWnbIIxV&t=24 <br>
 Pokazanie jego ról bez próbek głosu - https://www.youtube.com/watch?v=Q7vf-IHwNwM <br>
 
 ## Przemysław Strippa

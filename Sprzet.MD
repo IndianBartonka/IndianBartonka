@@ -1,4 +1,4 @@
-//TODO: Dodaj info o Pironman i RX 7800 XT
+//TODO: Dodaj info o Pironman
 
 
 # Mój sprzęt
@@ -14,7 +14,7 @@
 - **Procesor:** AMD Ryzen 5 Pro 3600
 - **Płyta główna:** Gigabyte A320M-S2H-CF
 - **Obudowa:** SilentiumPC Armis AR6 TG
-- **Karta graficzna:** Gigabyte GTX 1660 Super 6 GB
+- **Karta graficzna:** POWERCOLOR Radeon RX 7800 XT 16GB
 - **Karta sieciowa:** TP-LINK Archer TX55E
 - **RAM:** PATRIOT Viper Steel 2x16GB 3200MHz
 - **Dysk SSD NVMe:** Adata Legend710 512 GB
