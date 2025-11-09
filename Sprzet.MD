@@ -32,6 +32,7 @@
 - **Mikrofon**: MAONO DGM20S
 - **Głośniki:** Jakieś od "Setty" kupione kiedyś w biedronce xD
 - **Klawiatura:** SVEN KB-G8000
+- **Klawiatura:** Dark Project ALU87A Onionite V2 Wired Black G3MS Amethyst Hot-Swap RGB
 - **Mysz:** Genesis Krypton 110
 - **Biurko:** Huzaro Hero 6.3 White
 - **Krzesło:** Silver Monkey SMO-750
