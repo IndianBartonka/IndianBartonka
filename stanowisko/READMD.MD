@@ -52,12 +52,13 @@
 
 ## Sprzedaż części
 
-| Komponent  | Kwota  |
-|------------|--------|
-| RAM 2×8 GB | 100 zł |
-| Zasilacz   | 100 zł |
+| Komponent                             | Kwota  |
+|---------------------------------------|--------|
+| RAM 2×8 GB                            | 100 zł |
+| SilentiumPC Elementum E2 550W 80 Plus | 100 zł |
+| GTX 1600 Super                        | 325 zł |
 
-**Łączna sprzedaż:** 200 zł
+**Łączna sprzedaż:** 525 zł
 
 ---
 
