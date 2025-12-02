@@ -68,15 +68,13 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 
 ### Zaborowo itp
 
-| Osoba                          | Zapłata         |
-|--------------------------------|-----------------|
-| Brajan Grabowski               | *Nie Zapłacono* |
-| Bartłomiej Kornatowski         | *Nie Zapłacono* |
-| Jakub Kania (IDK)              | *Nie Zapłacono* |
-| Jakub Jabłoński (90% pewności) | *Nie Zapłacono* |
-|                                | *Nie Zapłacono* |
-|                                | *Nie Zapłacono* |
-|                                | *Nie Zapłacono* |
+| Osoba                                  | Zapłata         |
+|----------------------------------------|-----------------|
+| Brajan Grabowski      (Też pewnie nie) | *Nie Zapłacono* |
+| Jakub Jabłoński (90% pewności)         | *Nie Zapłacono* |
+|                                        | *Nie Zapłacono* |
+|                                        | *Nie Zapłacono* |
+|                                        | *Nie Zapłacono* |
 
 ### Piździgród
 
