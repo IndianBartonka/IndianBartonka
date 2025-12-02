@@ -62,6 +62,7 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 | Julia Winkowska     | *Nie Zapłacono* |
 | Agata Bożym         | *Nie Zapłacono* |
 | Jakub Osmolak       | *Nie Zapłacono* |
+| **Jakub Szymański** | *Nie Zapłacono* |
 |                     | *Nie Zapłacono* |
 |                     | *Nie Zapłacono* |
 
@@ -71,9 +72,7 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 |--------------------------------|-----------------|
 | Brajan Grabowski               | *Nie Zapłacono* |
 | Bartłomiej Kornatowski         | *Nie Zapłacono* |
-| Andżelika                      | *Nie Zapłacono* |
-| Jakub Kania                    | *Nie Zapłacono* |
-| Konrad Kazimierczak            | *Nie Zapłacono* |
+| Jakub Kania (IDK)              | *Nie Zapłacono* |
 | Jakub Jabłoński (90% pewności) | *Nie Zapłacono* |
 |                                | *Nie Zapłacono* |
 |                                | *Nie Zapłacono* |
@@ -156,7 +155,6 @@ Pizza (około jedna duża na dwie osoby)
 |------------------------------|---------------------------------------|
 | **Aleksandra Lubelska**      | Zarządzone przez <u>organizatorów</u> |
 | **Oliwia Maria Grzankowska** | Zarządzone przez <u>organizatorów</u> |
-| **Jakub Szymański**          | Zarządzone przez <u>organizatorów</u> |
 | **----**                     | ???                                   |
 | **----**                     | ???                                   |
 | **----**                     | ???                                   |
