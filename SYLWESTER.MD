@@ -34,15 +34,6 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 
 <u>Podzielone na poszczególne grupy osób</u>
 
-### Wołomin
-
-| Osoba                          | Zapłata         |
-|--------------------------------|-----------------|
-| Wiktoria *Gregorczyk* Tokarska | *Nie Zapłacono* |
-| Alan Gregorczyk                | *Nie Zapłacono* |
-|                                | *Nie Zapłacono* |
-|                                | *Nie Zapłacono* |
-
 ### Nacpolsk i okolice
 
 | Osoba               | Zapłata         |
@@ -154,6 +145,9 @@ Pizza (około jedna duża na dwie osoby)
 |------------------------------|---------------------------------------|
 | **Aleksandra Lubelska**      | Zarządzone przez <u>organizatorów</u> |
 | **Oliwia Maria Grzankowska** | Zarządzone przez <u>organizatorów</u> |
+| **----**                     | ???                                   |
+| **----**                     | ???                                   |
+| **----**                     | ???                                   |
 | **----**                     | ???                                   |
 | **----**                     | ???                                   |
 | **----**                     | ???                                   |
