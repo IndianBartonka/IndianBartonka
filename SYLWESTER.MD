@@ -63,6 +63,7 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 | Agata Bożym         | *Nie Zapłacono* |
 | Jakub Osmolak       | *Nie Zapłacono* |
 | **Jakub Szymański** | *Nie Zapłacono* |
+| Katarzyna Kowalska  | *Nie Zapłacono* |
 |                     | *Nie Zapłacono* |
 |                     | *Nie Zapłacono* |
 
