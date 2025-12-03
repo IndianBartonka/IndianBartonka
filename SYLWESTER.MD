@@ -58,16 +58,6 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 |                     | *Nie Zapłacono* |
 |                     | *Nie Zapłacono* |
 
-### Zaborowo itp
-
-| Osoba                                  | Zapłata         |
-|----------------------------------------|-----------------|
-| Brajan Grabowski      (Też pewnie nie) | *Nie Zapłacono* |
-| Jakub Jabłoński (90% pewności)         | *Nie Zapłacono* |
-|                                        | *Nie Zapłacono* |
-|                                        | *Nie Zapłacono* |
-|                                        | *Nie Zapłacono* |
-
 ### Piździgród
 
 | Osoba                                        | Zapłata         |
@@ -76,6 +66,9 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 | Szymon Fotek                                 | *Nie Zapłacono* |
 | Martyna Piotrowska                           | *Nie Zapłacono* |
 | Mała Czarna (chuj wie kto to jakas wiktoria) | *Nie Zapłacono* |
+| Wiktoria Sobczyńska                          | *Nie Zapłacono* |
+| Wiktoria Słupecka                            | *Nie Zapłacono* |
+| Ania Krawczyńska                             | *Nie Zapłacono* |
 |                                              | *Nie Zapłacono* |
 |                                              | *Nie Zapłacono* |
 
@@ -87,7 +80,6 @@ Osoby, które możliwe, że będą, ale jeszcze nie wiedzą, czy będą mogli
 
 | Osoba        |
 |--------------|
-| Daniel Rybak |
 |              |
 
 ---
