@@ -44,17 +44,16 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 | Miłosz Turkowski    | *Nie Zapłacono* |
 | Julia Czerwińska    | *Nie Zapłacono* |
 | Adrian Chajcelman   | *Nie Zapłacono* |
-| Julka Urbanowicz    | *Nie Zapłacono* |
 | Adam Bocianiak      | *Nie Zapłacono* |
 | Daniel Antoszewski  | *Nie Zapłacono* |
-| Kacper Jędrzejczyk  | *Nie Zapłacono* |
 | Seweryn Szymański   | *Nie Zapłacono* |
 | Oliwia Szymańska    | *Nie Zapłacono* |
 | Julia Winkowska     | *Nie Zapłacono* |
 | Agata Bożym         | *Nie Zapłacono* |
 | Jakub Osmolak       | *Nie Zapłacono* |
-| **Jakub Szymański** | *Nie Zapłacono* |
+| Jakub Szymański     | *Nie Zapłacono* |
 | Katarzyna Kowalska  | *Nie Zapłacono* |
+| Kacper Jędrzejczyk  | *Nie Zapłacono* |
 |                     | *Nie Zapłacono* |
 |                     | *Nie Zapłacono* |
 
@@ -66,8 +65,6 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 | Szymon Fotek                                 | *Nie Zapłacono* |
 | Martyna Piotrowska                           | *Nie Zapłacono* |
 | Mała Czarna (chuj wie kto to jakas wiktoria) | *Nie Zapłacono* |
-| Wiktoria Sobczyńska                          | *Nie Zapłacono* |
-| Wiktoria Słupecka                            | *Nie Zapłacono* |
 | Ania Krawczyńska                             | *Nie Zapłacono* |
 |                                              | *Nie Zapłacono* |
 |                                              | *Nie Zapłacono* |
