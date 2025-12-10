@@ -40,7 +40,7 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 |---------------------|-----------------|
 | Filip Kochański     | *Nie Zapłacono* |
 | Jakub Cieślakiewicz | *Nie Zapłacono* |
-| Oskar Falaciński    | *Nie Zapłacono* |
+| Oskar Falaciński    | **120**         |
 | Miłosz Turkowski    | *Nie Zapłacono* |
 | Julia Czerwińska    | *Nie Zapłacono* |
 | Adrian Chajcelman   | *Nie Zapłacono* |
