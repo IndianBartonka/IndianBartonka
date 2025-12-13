@@ -3,7 +3,7 @@
 # 🎇 Sylwester w Słominie
 
 W zależności od liczby osób składka będzie inna, aktualnie oczekujemy `30osób`. <br>
-Jeśli chodzi o cene proszę zajrzeć do punktu [6. W cenie](#-w-cenie) <br>
+Jeśli chodzi o cene proszę zajrzeć do punktu [4. W cenie](#-w-cenie) <br>
 
 Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 
@@ -19,14 +19,12 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 # 📜 Spis treści
 
 [1. Osoby, które na pewno będą](#-osoby-które-na-pewno-będą) <br>
-[2. Chętni](#-chętni) <br>
-[3. Możliwe, że będą](#-możliwe-że-będą)<br>
-[4. Moge zaprosić kogoś od siebie?](#-mogę-zaprosić-kogoś-od-siebie)<br>
-[5. Osoby towarzyszące](#-osoby-towarzyszące) <br>
-[6. W cenie](#-w-cenie) <br>
+[2. Moge zaprosić kogoś od siebie?](#-mogę-zaprosić-kogoś-od-siebie)<br>
+[3. Osoby towarzyszące](#-osoby-towarzyszące) <br>
+[4. W cenie](#-w-cenie) <br>
 []() <br>
 []() <br>
-[7. Osoby, które mają zakaz](#-osoby-zakazane) <br>
+[5. Osoby, które mają zakaz](#-osoby-zakazane) <br>
 
 ---
 
@@ -36,57 +34,31 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 
 ### Nacpolsk i okolice
 
-| Osoba               | Zapłata         |
-|---------------------|-----------------|
-| Filip Kochański     | *Nie Zapłacono* |
-| Jakub Cieślakiewicz | *Nie Zapłacono* |
-| Oskar Falaciński    | **120**         |
-| Miłosz Turkowski    | *Nie Zapłacono* |
-| Julia Czerwińska    | *Nie Zapłacono* |
-| Adrian Chajcelman   | *Nie Zapłacono* |
-| Adam Bocianiak      | *Nie Zapłacono* |
-| Daniel Antoszewski  | *Nie Zapłacono* |
-| Seweryn Szymański   | *Nie Zapłacono* |
-| Oliwia Szymańska    | *Nie Zapłacono* |
-| Julia Winkowska     | *Nie Zapłacono* |
-| Agata Bożym         | *Nie Zapłacono* |
-| Jakub Osmolak       | *Nie Zapłacono* |
-| Jakub Szymański     | *Nie Zapłacono* |
-| Katarzyna Kowalska  | *Nie Zapłacono* |
-| Kacper Jędrzejczyk  | *Nie Zapłacono* |
-|                     | *Nie Zapłacono* |
-|                     | *Nie Zapłacono* |
-
-### Piździgród
-
-| Osoba                                        | Zapłata         |
-|----------------------------------------------|-----------------|
-| Nikola Osińska                               | *Nie Zapłacono* |
-| Szymon Fotek                                 | *Nie Zapłacono* |
-| Martyna Piotrowska                           | *Nie Zapłacono* |
-| Mała Czarna (chuj wie kto to jakas wiktoria) | *Nie Zapłacono* |
-| Ania Krawczyńska                             | *Nie Zapłacono* |
-|                                              | *Nie Zapłacono* |
-|                                              | *Nie Zapłacono* |
-
----
-
-# 🤔 Chętni
-
-Osoby, które możliwe, że będą, ale jeszcze nie wiedzą, czy będą mogli
-
-| Osoba        |
-|--------------|
-|              |
-
----
-
-# 🕐 Możliwe, że będą
-
-| Osoba           |
-|-----------------|
-|                 |
-|                 |
+| Osoba                  | Zapłata         |
+|------------------------|-----------------|
+| Oskar Falaciński       | **120**         |
+| Nikola Osińska         | **120**         |
+| Filip Kochański        | *Nie Zapłacono* |
+| Jakub Cieślakiewicz    | *Nie Zapłacono* |
+| Miłosz Turkowski       | *Nie Zapłacono* |
+| Julia Czerwińska       | *Nie Zapłacono* |
+| Adrian Chajcelman      | *Nie Zapłacono* |
+| Adam Bocianiak         | *Nie Zapłacono* |
+| Daniel Antoszewski     | *Nie Zapłacono* |
+| Seweryn Szymański      | *Nie Zapłacono* |
+| Oliwia Szymańska       | *Nie Zapłacono* |
+| Julia Winkowska        | *Nie Zapłacono* |
+| Agata Bożym            | *Nie Zapłacono* |
+| Jakub Osmolak          | *Nie Zapłacono* |
+| Jakub Szymański        | *Nie Zapłacono* |
+|                        | ------          |
+|                        | ------          |
+|                        | ------          |
+| Katarzyna Kowalska     | *Nie Zapłacono* |
+| Kacper Jędrzejczyk     | *Nie Zapłacono* |
+| Ania Krawczyńska (50%) | *Nie Zapłacono* |
+|                        | ------          |
+|                        | ------          |
 
 ---
 
