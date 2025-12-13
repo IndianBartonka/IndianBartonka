@@ -43,7 +43,6 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 | Miłosz Turkowski       | *Nie Zapłacono* |
 | Julia Czerwińska       | *Nie Zapłacono* |
 | Adrian Chajcelman      | *Nie Zapłacono* |
-| Adam Bocianiak         | *Nie Zapłacono* |
 | Daniel Antoszewski     | *Nie Zapłacono* |
 | Seweryn Szymański      | *Nie Zapłacono* |
 | Oliwia Szymańska       | *Nie Zapłacono* |
@@ -54,6 +53,7 @@ Lokalizacja: https://maps.app.goo.gl/SdNWy9SfKiEhM5316
 |                        | ------          |
 |                        | ------          |
 |                        | ------          |
+| Adam Bocianiak         | *Nie Zapłacono* |
 | Katarzyna Kowalska     | *Nie Zapłacono* |
 | Kacper Jędrzejczyk     | *Nie Zapłacono* |
 | Ania Krawczyńska (50%) | *Nie Zapłacono* |
