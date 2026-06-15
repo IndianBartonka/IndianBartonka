@@ -33,7 +33,7 @@
 - **Głośniki:** Jakieś od "Setty" kupione kiedyś w biedronce xD
 - **Klawiatura:** SVEN KB-G8000
 - **Klawiatura:** Dark Project ALU87A Onionite V2 Wired Black G3MS Amethyst Hot-Swap RGB
-- **Mysz:** Genesis Krypton 110
+- **Mysz:** Nubi NM1 SE White
 - **Biurko:** Huzaro Hero 6.3 White
 - **Krzesło:** Silver Monkey SMO-750
 - **Podkładka:** COBRA Matrix XL TM9006PI
