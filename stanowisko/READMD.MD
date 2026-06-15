@@ -19,6 +19,10 @@
 ---
 
 ## Dodatkowe elementy / ulepszenia
+mysz
+Nubi NM1 SE White
+
+NM1-SE-WL-WH
 
 | Komponent                                                                         | Cena      |
 |-----------------------------------------------------------------------------------|-----------|
