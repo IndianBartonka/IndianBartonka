@@ -29,3 +29,15 @@ JDA, Javalin, OkHttp, Gson, Okaeri Configs, Spring i wiele innych
 
 [![Huje22](https://discordapp.com/api/guilds/863164502031597568/widget.png?style=banner2)](https://discord.com/invite/56h83WPKdK) [![Open plugins](https://discordapp.com/api/guilds/1071413512414449666/widget.png?style=banner2)](https://discord.com/invite/aXDs6qtDCV) </br>
 </div>
+
+
+# Moja szybka ściąga 
+
+
+| Parametr | Opis | Świetny | Średni | Słaby |
+| :--- | :--- | :--- | :--- | :--- |
+| **RSRP** | Siła sygnału (dBm) | > -80 | -80 do -100 | < -100 |
+| **RSRQ** | Jakość sygnału (dB) | > -10 | -10 do -15 | < -15 |
+| **SINR** | Czystość/Zakłócenia (dB) | > 20 | 10 do 20 | < 10 |
+-------+-------------+
+
