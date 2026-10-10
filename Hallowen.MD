@@ -41,8 +41,8 @@ Raczej pewne
 | 24    | Piotr Myśliński       | ------  |
 | 25    | Laura Żmijewska       | ------  |
 | 26    | Wiktoria Krzemińska   | ------  |
-| 27    |                       | ------  |
-| 28    |                       | ------  |
+| 27    | Julia Czerwińska      | ------  |
+| 28    | Miłosz Turkowski      | ------  |
 | 39    |                       | ------  |
 | 30    |                       | ------  |
 
